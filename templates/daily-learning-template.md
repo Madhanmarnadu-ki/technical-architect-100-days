@@ -5,3 +5,16 @@
 ## When not to use it
 ## Example
 ## Key Takeaway
+
+# Exercise
+## problem
+## Requirements
+## My Approach
+## Assumptions
+
+# Solution
+## Final solution
+## Architecture decisions
+## Trade-offs
+## Improvements
+## Feedback Received
